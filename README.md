@@ -3,3 +3,12 @@
 
 ## Requirements 
 Python 3.13
+All libraries and packages from 'requirements.txt' file
+It is recommended to create a virtual environment in which to install the above dependencies.
+
+## Installation and Running
+
+
+## Contributors
+Main contributor: Fawwaaz Rusmaully
+Supervisor: Dr Martyn Parker
