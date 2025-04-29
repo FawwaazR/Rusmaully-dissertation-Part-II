@@ -1,2 +1,5 @@
-# Rusmaully-dissertation-Part-II
-This repository contains all source code to reproduce all plots used in Part II of "How Effective are Natural Language Processing Methods at Detecting Hate Speech in Social Media Posts?" by Fawwaaz Rusmaully 
+# How Effective Are Natural Language Processing Methods At Detecting Hate Speech In Social Media Posts? - Theory and Practical Implementation
+2024/25 ST415 Statistics Dissertation - The University of Warwick
+
+## Requirements 
+Python 3.13
