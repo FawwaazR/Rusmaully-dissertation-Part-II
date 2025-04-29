@@ -1,1 +1,13 @@
-
+bertopic==0.17.0
+collection==0.1.6
+datasets==3.5.1
+gensim==4.3.3
+matplotlib==3.10.1
+nltk==3.9.1
+pandas==2.2.3
+plotly==6.0.1
+pyLDAvis==3.4.1
+regex==2024.11.6
+scikit-learn==1.6.1
+seaborn==0.13.2
+spacy==3.8.5
