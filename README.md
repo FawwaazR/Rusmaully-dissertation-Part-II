@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
     5. Run the code
 
-python src\Part II code.py
+python src\main.py
 ## Contributors
 Main contributor: Fawwaaz Rusmaully
 
