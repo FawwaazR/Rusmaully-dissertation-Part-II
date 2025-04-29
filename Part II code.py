@@ -303,7 +303,7 @@ for i in range(1, 6):
   coherence_model_cv = CoherenceModel(model=n_h_lda_model, texts=n_h_posts, dictionary=n_h_id2word, coherence='c_v')
   scores.append(coherence_model_cv.get_coherence())
 
-sns.set(style="whitegrid", palette="muted")
+sns.set_style("whitegrid")
 plt.plot([1, 2, 3, 4, 5], scores, marker='o', color='b', markersize=8, linewidth=2)
 plt.xlabel('Number of topics', fontsize=10)
 plt.ylabel('Coherence score', fontsize=10)
